@@ -153,8 +153,8 @@ V, policy, iterations = value_iteration(env)
 # -------------------------------------------------
 # Display Output
 # -------------------------------------------------
-print("Name: Ramesh Renuka")
-print("Register Number: 212223240136")
+print("Name: Rakisha R")
+print("Register Number: 212225230223")
 print("Value Iteration Completed")
 print("Number of Iterations:", iterations)
 
@@ -179,7 +179,8 @@ print(policy_grid)
 
 ## Output
 
-<img width="517" height="298" alt="image" src="https://github.com/user-attachments/assets/eee30d79-3cf8-42e7-b30d-a87af089c033" />
+<img width="532" height="357" alt="image" src="https://github.com/user-attachments/assets/c13dc27c-c774-402b-bd55-d8cdac571b47" />
+
 
 
 
